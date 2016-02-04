@@ -7,7 +7,7 @@ import tempfile
 
 DATA = '''{
     "auth": {
-        "tenant": "%s",
+        "tenantName": "%s",
         "passwordCredentials": {
             "username": "%s",
             "password": "123456"
